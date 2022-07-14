@@ -174,7 +174,7 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color: #555;
+	color: #1d1b4c;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -2741,7 +2741,7 @@ img.lazy:not([src]) {
 	width: 100%;
 	margin: 60px 0;
 	padding: 60px 0;
-	background-color: #F9F9F9;
+	background-color: transparent;
 	overflow: hidden;
 }
 
@@ -6682,7 +6682,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 	background-color: #FFF;
 }
 
-#content p { line-height: 1.8; }
+#content p { line-height: 1.4; }
 
 .content-wrap {
 	position: relative;
@@ -13628,7 +13628,7 @@ h3.titular-title { font-size: 2rem; }
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #333;
+	/*color: #333;*/
 }
 
 .emphasis-title h1,
