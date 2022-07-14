@@ -1462,7 +1462,7 @@ body #side-panel.dark {
 #footer.dark {
 	color: rgba(255,255,255,0.75);
 	background-color: #282828;
-	border-top-color: rgba(255,255,255,0.15);
+	border-top-color: #1790B0;
 }
 
 .dark .footer-widgets-wrap a {
