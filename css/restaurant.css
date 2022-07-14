@@ -50,14 +50,14 @@
 
 
 .food-menu .item-thumb .owl-dot:nth-of-type(1) span { background-image: url('../img/karmus/karmus-stationary-mockup.jpg'); }
-.food-menu .item-thumb .owl-dot:nth-of-type(2) span { background-image: url('images/items/food/thumbs/2.jpg'); }
-.food-menu .item-thumb .owl-dot:nth-of-type(3) span { background-image: url('images/items/food/thumbs/3.jpg'); }
-.food-menu .item-thumb .owl-dot:nth-of-type(4) span { background-image: url('images/items/food/thumbs/4.jpg'); }
+.food-menu .item-thumb .owl-dot:nth-of-type(2) span { background-image: url('../img/ws-lahoja.jpg'); }
+.food-menu .item-thumb .owl-dot:nth-of-type(3) span { background-image: url('../img/ws-quprex.jpg'); }
+/*.food-menu .item-thumb .owl-dot:nth-of-type(4) span { background-image: url('images/items/food/thumbs/4.jpg'); }
 .food-menu .item-thumb .owl-dot:nth-of-type(5) span { background-image: url('images/items/food/thumbs/5.jpg'); }
 .food-menu .item-thumb .owl-dot:nth-of-type(6) span { background-image: url('images/items/food/thumbs/6.jpg'); }
 .food-menu .item-thumb .owl-dot:nth-of-type(7) span { background-image: url('images/items/food/thumbs/7.jpg'); }
 .food-menu .item-thumb .owl-dot:nth-of-type(8) span { background-image: url('images/items/food/thumbs/8.jpg'); }
-.food-menu .item-thumb .owl-dot:nth-of-type(9) span { background-image: url('images/items/food/thumbs/9.jpg'); }
+.food-menu .item-thumb .owl-dot:nth-of-type(9) span { background-image: url('images/items/food/thumbs/9.jpg'); }*/
 
 .dessert-menu .item-thumb .owl-dot:nth-of-type(1) span { background-image: url('images/items/desserts/thumbs/1.jpg'); }
 .dessert-menu .item-thumb .owl-dot:nth-of-type(2) span { background-image: url('images/items/desserts/thumbs/2.jpg'); }
